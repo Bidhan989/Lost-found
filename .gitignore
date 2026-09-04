@@ -1,0 +1,9 @@
+credentials.txt
+.env
+*.local.php
+
+Uploads/
+
+.vscode/
+Thumbs.db
+.DS_Store
